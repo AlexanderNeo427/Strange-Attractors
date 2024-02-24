@@ -1,0 +1,20 @@
+﻿  Main.cpp
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib-cpp\Functions.hpp(66,3): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib-cpp\Functions.hpp(147,3): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib-cpp\Functions.hpp(166,3): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(2352,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(2385,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(3059,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(3060,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(3061,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(3062,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib\src\extras\raygui.h(3063,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SceneExample.cpp
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib-cpp\Functions.hpp(66,3): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib-cpp\Functions.hpp(147,3): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\external\raylib-cpp\Functions.hpp(166,3): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\src\Scenes\SceneExample\SceneExample.cpp(54,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\src\Scenes\SceneExample\SceneExample.cpp(54,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\Projects\C++\Visualization Projects\raylib-cpp-template\TheCherno-VS-Project-Template1\src\Scenes\SceneExample\SceneExample.h(25): warning C4172: returning address of local variable or temporary
+  TheCherno-VS-Project-Template1.vcxproj -> D:\Projects\C++\Visualization Projects\raylib-cpp-template\bin\x64\Debug\TheCherno-VS-Project-Template1.exe
